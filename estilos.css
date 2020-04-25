@@ -1,0 +1,86 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1rem;
+    font-weight: 300;
+    letter-spacing: 0.05rem;    
+    
+}
+#amora1 {
+    font: size 68px;
+    margin-bottom: 30px ;
+}
+ 
+h1, h2, h3, h4, h5, h6, p, .navbar, #amora1 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+section{
+    padding: 20px;
+
+}
+ 
+
+.content-center {
+
+    max-width: 800px;
+    margin: 0 auto 60px auto;
+    text-align: center;
+    
+    }
+.togmargin-lg {
+    margin-top: 60px;
+}
+
+.navbar-toggler { font-size: 15px; }
+.navbar-toggler:focus { outline: none; }
+
+.slider {
+    padding: 6px;
+    background: url("imagenes/amora00.jpg");
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    width: 1110px;
+    padding: 5px;
+}
+
+#footer { 
+    
+    text-align: center;
+    color: #ffffff !important;
+    font-family: 'Oswald', sans-serif;
+}
+
+#footer a {
+    color: #ffffff !important;
+    font-family: 'Oswald', sans-serif;   
+}
+
+#footer a:hover {
+    color: #ffffff !important;
+}
+
+#footer .list-inline .list-inline-item {
+    padding: 15px  20px !important;
+}
+
+
+
+#amora1 {
+    font: size 68px;
+    margin-bottom: 30px ;
+}
+
+
+.bg-dark {
+    background-color: black !important;
+}
+
+#quienessomos {
+    font-family: 'Oswald', sans-serif !important;
+    font-weight: 500 !important;
+    line-height: 1.5 !important;
+}
+
